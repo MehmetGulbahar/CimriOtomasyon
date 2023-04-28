@@ -1,5 +1,5 @@
 
-package com.github.MehmetGulbahar;
+package com.github.Mehmet;
 
 import java.io.IOException;
 
@@ -13,7 +13,6 @@ import org.telegram.telegrambots.meta.api.objects.Update;
 
 public class MyTelegramBot extends TelegramLongPollingBot {
 
-    // Add your bot token here
     private static final String BOT_TOKEN = "6023712082:AAEKa5E5rTtXmt6snOCkNBl_AG6HfueW370";
 
     public void onUpdateReceived(Update update) {
