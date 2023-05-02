@@ -11,3 +11,4 @@ Bu projenin amacı, bir web sitesindeki verileri toplamak ve Telegram API'si ara
 **JSoup is an open-source HTML parsing library developed for the Java programming language. It is used to read, manipulate, and analyze HTML documents. With this library, extracting and processing data from web pages becomes much easier and faster. JSoup can process HTML documents using CSS selectors and DOM methods. Additionally, JSoup can fill out and submit forms on web pages. JSoup is useful for web scraping, data extraction, web content analysis, and many other applications.**
 The purpose of this project is to gather data from a website and share it through a Telegram bot using the Telegram API. This allows users to easily access the website data through the Telegram bot, rather than having to monitor the website directly.
 
+![Telegram_Bot](https://github.com/MehmetGulbahar/CimriOtomasyon/raw/main/src/Image/image.jpg)
