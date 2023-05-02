@@ -9,8 +9,8 @@ import java.io.IOException;
 public class Main {
 
 	public static void main(String[] args) {
-		String telegramToken = "6023712082:AAEKa5E5rTtXmt6snOCkNBl_AG6HfueW370";
-		String chatId = "2136000537";
+		String telegramToken = "Telegram Token";
+		String chatId = "Chat ID";
 
 		TelegramBot telegramBot = new TelegramBot(telegramToken, chatId);
 
